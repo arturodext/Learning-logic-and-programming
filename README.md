@@ -11,7 +11,7 @@ and future projects.
 	HELLO_WORLD
 
 I hope to publicize my games that I am developing.
-One is like a Zelda clone;
+One is like a Zelda clone.
 another, adventure with multiple actions:
 this one, I will try to draw more attention to the sounds and effects;
 For the player to get more experience with the environment and the options.
