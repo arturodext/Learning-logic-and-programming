@@ -19,7 +19,9 @@ public class Arrays {
     //In order not to create several variables "name_1", "name_2", etc...
     
    String[] name = new String[2];
+   
    name[0] = "Albus";
+   
    name[1] = "Knuth";
 		
   System.out.println ("The ruthless wizard has a name, and he is "+name[0]);
