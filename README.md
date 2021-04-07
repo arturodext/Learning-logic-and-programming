@@ -23,13 +23,12 @@ public class Arrays {
    name[1] = "Knuth";
 		
   System.out.println ("The ruthless wizard has a name, and he is "+name[0]);
-		//The top one is a single, normal array.
-	  //Multidimensional array
-		String[][] name2 = new String[2][2];
-		name2[0][0] = "Atomz";
+  	//The top one is a single, normal array.
+	//Multidimensional array
+	String[][] name2 = new String[2][2];
+	name2[0][0] = "Atomz";
 		
    System.out.println ("The patrolman of the blazing flame, he is the "+name2[0][0]);
-   
    System.out.println ("The miserable is a master and a player "+name[1]);
   }
 }
