@@ -29,6 +29,7 @@ public class Arrays {
 		name2[0][0] = "Atomz";
 		
    System.out.println ("The patrolman of the blazing flame, he is the "+name2[0][0]);
+   
    System.out.println ("The miserable is a master and a player "+name[1]);
   }
 }
