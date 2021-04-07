@@ -1,6 +1,6 @@
 # Learning-logic-and-programming
 	
-	//The first one about helloWorld
+	//The first one about the_World
 	
 I use Eclipse IDE and JavaScript as coding.
 I would like to help and be helped,
@@ -17,4 +17,4 @@ this one, I will try to draw more attention to the sounds and effects;
 For the player to get more experience with the environment and the options.
 Focus on the soundtrack.
 
-	The_World is coming
+	the_World is coming
